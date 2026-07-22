@@ -1,0 +1,19 @@
+{
+	"com.sedwards.deskscout-alpha":{
+		"basePath":"bin/DeskScout",
+		"manifest":"information.json"
+	},
+	"com.sedwards.deskscout-beta":{
+		"basePath":"bin/DeskScout-Beta",
+		"manifest":"information.json"
+	},
+	"com.sedwards.deskscout-stable":{
+		"basePath":"bin/DeskScout-Stable",
+		"manifest":"information.json"
+	},
+
+	"com.sedwards.xumoplay":{
+		"basePath":"bin/XumoPlay",
+		"manifest":null
+	}
+}

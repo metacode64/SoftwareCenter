@@ -1,0 +1,20 @@
+{
+	"win32":{
+		"11":{
+			"availableChannels":["stable"],
+			"latest":{
+				"stable":"1"
+			},
+			"data":{
+				"stable":{
+					"1":{
+						"version":"1.0",
+						"downloadType":"singlefile",
+						"installerFormat":"metasoft",
+						"path":"https://github.com/metacode64/"
+					}
+				}
+			}
+		}
+	}
+}

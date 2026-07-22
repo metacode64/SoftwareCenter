@@ -1,0 +1,11 @@
+{
+	"name":"This Is Diabetic Chat Generator",
+	"author":"Seth Edwards",
+	"description":"Meme generator for the r/Diabetes server",
+	"image":"",
+	"platform":["win32"],
+	"versionSupport":{
+		"win32":["10","11"]
+	}
+
+}
