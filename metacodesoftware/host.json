@@ -1,0 +1,13 @@
+{
+	"featured":[],
+	"version":"1.0",
+	"SoftwareCenterVersionInfo":{
+		"win32":{
+			"11":{
+				"deprecated":false,
+				"latest":"1.0",
+				"path":""
+			}
+		}
+	}
+}
