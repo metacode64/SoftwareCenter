@@ -12,9 +12,10 @@
 				"stable":{
 					"1":{
 						"version":"1.0",
-						"downloadType":"singlefile",
+						"downloadType":"multipart",
+						"parts":2,
 						"installerFormat":"metasoft",
-						"path":"https://raw.githubusercontent.com/metacode64/SoftwareCenter/refs/heads/main/bin/app0000/install/win32_11_stable_1.mspkg"
+						"path":"https://raw.githubusercontent.com/metacode64/SoftwareCenter/refs/heads/main/bin/app0000/install/win32_11_stable_1"
 					}
 				}
 			}
