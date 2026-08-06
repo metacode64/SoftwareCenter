@@ -1,0 +1,13 @@
+{
+	"name":"ShowScript",
+	"author":"Seth Edwards (metacode64)",
+	"description":"App for making show scripts",
+	"image":"",
+	"images":[],
+	"icon":"",
+	"platform":["win32"],
+	"versionSupport":{
+		"win32":["11"]
+	}
+
+}

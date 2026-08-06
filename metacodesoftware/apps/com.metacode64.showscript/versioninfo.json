@@ -1,0 +1,24 @@
+{
+	"win32":{
+		"11":{
+			"availableChannels":["stable"],
+			"defaultChannel":"stable",
+			"defaultVersion":"latest",
+			"latest":{
+				"stable":"1"
+			},
+			"data":{
+				"stable":{
+					"1":{
+						"version":"1.0",
+						"downloadType":"singlefile",
+						"parts":2,
+						"size":115263261,
+						"installerFormat":"metasoft",
+						"path":"https://raw.githubusercontent.com/metacode64/SoftwareCenter/refs/heads/main/bin/app0002/install/win32_11_stable_1.mspkg"
+					}
+				}
+			}
+		}
+	}
+}
