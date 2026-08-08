@@ -11,12 +11,12 @@
 			"data":{
 				"stable":{
 					"1":{
-						"version":"1.0",
-						"downloadType":"multipart",
+						"version":"1.2.6",
+						"downloadType":"singlefile",
 						"parts":2,
-						"size":115263261,
+						"size":182627418,
 						"installerFormat":"metasoft",
-						"path":"https://raw.githubusercontent.com/metacode64/SoftwareCenter/refs/heads/main/bin/app0000/install/win32_11_stable_1"
+						"path":"https://raw.githubusercontent.com/metacode64/SoftwareCenter/refs/heads/main/bin/app0003/install/stable-m47"
 					}
 				}
 			}
