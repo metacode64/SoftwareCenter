@@ -12,7 +12,7 @@
 				"stable":{
 					"1":{
 						"version":"1.2.6",
-						"downloadType":"singlefile",
+						"downloadType":"multipart",
 						"parts":2,
 						"size":182627418,
 						"installerFormat":"metasoft",
