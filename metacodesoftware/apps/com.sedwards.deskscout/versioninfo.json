@@ -15,6 +15,7 @@
 						"downloadType":"multipart",
 						"parts":2,
 						"size":182429544,
+						"appSize":342536804,
 						"installerFormat":"metasoft",
 						"path":"https://raw.githubusercontent.com/metacode64/SoftwareCenter/refs/heads/main/bin/app0003/install/stable-m47"
 					}

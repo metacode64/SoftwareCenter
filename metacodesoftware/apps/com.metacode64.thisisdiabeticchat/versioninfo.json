@@ -14,7 +14,8 @@
 						"version":"1.0",
 						"downloadType":"multipart",
 						"parts":2,
-						"size":114983242,
+						"size":114962786,
+						"appSize":378091075,
 						"installerFormat":"metasoft",
 						"path":"https://raw.githubusercontent.com/metacode64/SoftwareCenter/refs/heads/main/bin/app0000/install/win32_11_stable_1"
 					}
