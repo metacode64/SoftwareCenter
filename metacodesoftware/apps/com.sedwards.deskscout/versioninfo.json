@@ -6,15 +6,15 @@
 			"defaultVersion":"latest",
 			
 			"latest":{
-				"stable":"1"
+				"stable":"m47"
 			},
 			"data":{
 				"stable":{
-					"1":{
+					"m47":{
 						"version":"1.2.6",
 						"downloadType":"multipart",
 						"parts":2,
-						"size":182627418,
+						"size":182429544,
 						"installerFormat":"metasoft",
 						"path":"https://raw.githubusercontent.com/metacode64/SoftwareCenter/refs/heads/main/bin/app0003/install/stable-m47"
 					}
