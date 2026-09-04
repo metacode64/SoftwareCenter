@@ -4,7 +4,7 @@
 	"description":"Meme generator for the r/Diabetes server",
 	"image":"",
 	"images":[
-		"https://raw.githubusercontent.com/metacode64/SoftwareCenter/refs/heads/main/metacodesoftware/apps/com.metacode64.thisisdeiabeticchat/images/image.png"
+		"image.png"
 	],
 	"icon":"",
 	"platform":["win32"],
