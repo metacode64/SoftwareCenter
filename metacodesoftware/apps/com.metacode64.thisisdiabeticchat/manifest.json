@@ -3,7 +3,9 @@
 	"author":"Seth Edwards (metacode64)",
 	"description":"Meme generator for the r/Diabetes server",
 	"image":"",
-	"images":[],
+	"images":[
+		"https://raw.githubusercontent.com/metacode64/SoftwareCenter/refs/heads/main/metacodesoftware/apps/com.metacode64.thisisdeiabeticchat/images/image.png"
+	],
 	"icon":"",
 	"platform":["win32"],
 	"versionSupport":{
