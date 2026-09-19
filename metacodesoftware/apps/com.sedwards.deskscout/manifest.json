@@ -2,6 +2,8 @@
 	"name":"DeskScout",
 	"author":"Seth Edwards (metacode64)",
 	"description":"Open source CGM platform",
+	"short":"Open source CGM platform",
+
 	"image":"",
 	"images":[],
 	"icon":"logo.ico",

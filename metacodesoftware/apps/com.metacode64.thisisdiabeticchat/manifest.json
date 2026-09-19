@@ -2,6 +2,8 @@
 	"name":"This Is Diabetic Chat Generator",
 	"author":"Seth Edwards (metacode64)",
 	"description":"Meme generator for the r/Diabetes server",
+	"short":"Meme generator for the r/Diabetes server",
+
 	"image":"",
 	"images":[
 		"image.png"

@@ -2,6 +2,8 @@
 	"name":"Xumo Play",
 	"author":"Seth Edwards (metacode64)",
 	"description":"Xumo Play windows client",
+	"short":"Xumo Play windows client",
+
 	"image":"",
 	"images":["image.png"],
 	"icon":"logo.ico",

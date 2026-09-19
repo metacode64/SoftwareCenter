@@ -2,6 +2,8 @@
 	"name":"TSPL2 Extension",
 	"author":"Seth Edwards (metacode64)",
 	"description":"Asset Generators and Device protocol drivers for some TSPL2 compatible printers",
+	"short":"Asset Generators and Device protocol drivers for some TSPL2 compatible printers",
+
 	"image":"",
 	"images":[],
 	"icon":"",
