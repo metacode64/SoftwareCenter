@@ -1,11 +1,11 @@
 {
 	"name":"DeskScout",
 	"author":"Seth Edwards (metacode64)",
-	"description":"Open source CGM platform",
+	"description":"# DeskScout Source Code  \nAn open source alert system for CGMs  \n# NOTICE  \n# DeskScout now features an updater, you must be on 0.7.0 alpha, 1.0 stable or later to receive OTA updates.  \n# Updates are now staged, you may need to update multiple times to get to the latest version  \n# Requirements  \nPython 3.12.2 or later  \nMicrosoft Windows App Runtime 2.1.3 or later  \n# What works  \n- Urgent low glucose alerts  \n- Low glucose alerts  \n- High Glucose alerts  \n- Tray Icon  \n- Display in mmol/L  \n- Glucose history page  \n- Auto login  \n- Data export  \n- Falling Fast alert  \n- Rising Fast alert  \n# Whats being worked on  \n- Falling fast, Rising fast, Urgent Low Soon alerts  \n- Glucose overlay  \n- LibreLink glucose data providers  \n- DeskScout system alert customization  \n- Version string generation  \n- Updater  \n- Deleting glucose history  \n- Nightscout Settings  \n- Glucose graph  \n# Whats new  \n## Alpha (Build: 37)  \nAdded autostart feature  \n## Beta  \nN/A  \n## Stable (Build: 36)  \nBug fixes  \n# If you have issues with your connections, right click the tray icon and select Refresh Connections, if that doesn't work click Refresh Data Provider.  \n# As of now, there is no support for LibreLink, but it will be coming in the first official release, this is the definition of a developer release, there are many things that don't work but y'all deserve an update.  \n# Warning  \nDo not attempt to restore glucose data from version 0.6 or below, it will not work, the way the app handles timestamps has changed, and it will break your install. Please try your best to only update your installation via the over the air updates to mitigate corruption of settings if you decide to restore your data. TLDR: Only backup and restore from the version you are running, there are no guarantees that it will work if you do so  \n# Running the app  \nRun DeskScout.pyw to automatically start the server and open the app if the server is not running  \nOr start them separately, the server must be running to start the app  \n# Join the DeskScout Discord server!  \nhttps://discord.gg/Wf3XsDwsEk",
 	"short":"Open source CGM platform",
 
 	"image":"",
-	"images":[],
+	"images":["home.png","history.png","richpresence.png","settings.png"],
 	"icon":"logo.ico",
 	"platform":["win32"],
 	"versionSupport":{
