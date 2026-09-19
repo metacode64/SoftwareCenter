@@ -6,7 +6,7 @@
 	"images":[
 		"image.png"
 	],
-	"icon":"",
+	"icon":"icon.webp",
 	"platform":["win32"],
 	"versionSupport":{
 		"win32":["11"]

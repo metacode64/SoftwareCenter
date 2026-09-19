@@ -4,7 +4,7 @@
 	"description":"Xumo Play windows client",
 	"image":"",
 	"images":["image.png"],
-	"icon":"",
+	"icon":"logo.ico",
 	"platform":["win32"],
 	"versionSupport":{
 		"win32":["11"]
