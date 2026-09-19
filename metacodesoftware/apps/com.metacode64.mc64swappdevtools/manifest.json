@@ -4,7 +4,7 @@
 	"description":"Developer tools for making metacode64 Software Center compatible apps.  \n## Includes:  \n- App Manifest Generator",
 	"image":"",
 	"images":[],
-	"icon":"",
+	"icon":"icon.png",
 	"platform":["win32"],
 	"versionSupport":{
 		"win32":["11"]
