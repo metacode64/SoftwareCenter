@@ -4,7 +4,7 @@
 	"description":"MetaSoft Package Maker",
 	"image":"",
 	"images":[],
-	"icon":"",
+	"icon":"icon.png",
 	"platform":["win32"],
 	"versionSupport":{
 		"win32":["11"]
