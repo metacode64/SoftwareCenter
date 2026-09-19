@@ -3,7 +3,7 @@
 	"author":"Seth Edwards (metacode64)",
 	"description":"Xumo Play windows client",
 	"image":"",
-	"images":[],
+	"images":["image.png"],
 	"icon":"",
 	"platform":["win32"],
 	"versionSupport":{
