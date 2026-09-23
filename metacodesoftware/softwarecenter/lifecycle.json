@@ -1,0 +1,25 @@
+{
+	"platforms":{
+		"win32":["11"]
+	},
+	"latest":{
+		"win32":{
+			"11":{
+				"26I23":"26I23"
+			}
+		}
+	},
+	"builds":{
+		"win32":{
+			"26I24":{
+				"osVersions":["11"],
+				"requiredVersion":"1.0",
+				"downloadType":"multipart",
+				"parts":2,
+				"size":182429544,
+				"appSize":342536804,
+				"path":"https://raw.githubusercontent.com/metacode64/SoftwareCenter/refs/heads/main/bin/lifecycle/26I24-win32.pkg"
+			}
+		}
+	}
+}
