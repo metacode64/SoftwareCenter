@@ -9,9 +9,9 @@
 					"1":{
 						"version":"1.0",
 						"downloadType":"multipart",
-						"parts":2,
-						"size":182429544,
-						"appSize":342536804,
+						"parts":3,
+						"size":258672217,
+						"appSize":862267845,
 						"installerFormat":"metasoft",
 						"path":"https://raw.githubusercontent.com/metacode64/SoftwareCenter/refs/heads/main/bin/mc64swc/install/win32_stable_1"
 					}
