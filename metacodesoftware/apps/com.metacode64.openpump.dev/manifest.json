@@ -1,0 +1,14 @@
+{
+	"name":"OpenPump Developer Kit",
+	"author":"Seth Edwards (metacode64)",
+	"description":"# The official OpenPump development kit  \n## Includes  \n- OpenPump emulator",
+	"short":"The official OpenPump Development kit",
+	"image":"",
+	"images":["images/boot.png","images/welcome.png","images/menu.png"],
+	"icon":"",
+	"platform":["win32"],
+	"versionSupport":{
+		"win32":["11"]
+	}
+
+}
