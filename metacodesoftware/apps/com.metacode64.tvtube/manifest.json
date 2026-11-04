@@ -1,0 +1,14 @@
+{
+	"name":"TVTube",
+	"author":"Seth Edwards (metacode64)",
+	"description":"Launches youtube with the Leanback UI",
+	"short":"Launches youtube with the Leanback UI",
+	"image":"",
+	"images":["home.png","search.png"],
+	"icon":"icon.ico",
+	"platform":["win32"],
+	"versionSupport":{
+		"win32":["11"]
+	}
+
+}

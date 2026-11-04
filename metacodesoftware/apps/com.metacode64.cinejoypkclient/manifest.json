@@ -1,0 +1,14 @@
+{
+	"name":"Cinejoy.pk native client",
+	"author":"Seth Edwards (metacode64)",
+	"description":"Launches cinejoy.pk in a windowed browser or fullscreen.  \n# NOTICE: Cinejoy and this app does not host, store, or distribute any media files. All content is sourced from third-party providers.",
+	"short":"Launches youtube with the Leanback UI",
+	"image":"",
+	"images":[],
+	"icon":"icon.ico",
+	"platform":["win32"],
+	"versionSupport":{
+		"win32":["11"]
+	}
+
+}
